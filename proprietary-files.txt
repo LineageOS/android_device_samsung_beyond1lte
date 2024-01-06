@@ -90,10 +90,6 @@ vendor/etc/floating_feature.xml
 vendor/etc/plmn_se13.bin
 vendor/etc/init/init.baseband.rc
 
-## RIL - from beyond1lte - G973FXXSDFUI5
--vendor/lib64/libsec-ril.so|f1917988d62182eec1b44c74161f3ce2f293bd8f
--vendor/lib64/libsec-ril-dsds.so|8ae8d41648f43d765a312531205606db6ea43ca2
-
 ## Sensors
 -vendor/bin/hw/lhd
 vendor/etc/sensor/lhd.conf
