@@ -1,29 +1,29 @@
 # Firmware for model SM-G973F - from Samsung package version G973FXXSGHWC2
 
-cm.bin_SM-G973F
-dqmdbg.img_SM-G973F
-keystorage.bin_SM-G973F
-modem.bin_SM-G973F
-modem_debug.bin_SM-G973F
-param.bin_SM-G973F
-sboot.bin_SM-G973F
-uh.bin_SM-G973F
-up_param.bin_SM-G973F
+cm.bin_SM-G973F|f9c7f55ae776e331df7e9cfddf41137dd98dc757
+dqmdbg.img_SM-G973F|867d39fb839488472e24a151985b0dd4cb3662af
+keystorage.bin_SM-G973F|1ec505909291ff464f63f38d520b76e427d4908a
+modem.bin_SM-G973F|9f56964ec570d709911403fd414b4efe028792b9
+modem_debug.bin_SM-G973F|4feba681a7d9efe99ea0cd465963f7d96dd17611
+param.bin_SM-G973F|cc375acf6889812b47e8762b59ca75d27b27ddc1
+sboot.bin_SM-G973F|0224b1568d3ec348bad2918e0bf81214aab7f5c5
+uh.bin_SM-G973F|cc28604dfddc06cada9bdb60d96aaf248c64ae7c
+up_param.bin_SM-G973F|218c771da641276525130bf9315c620af753aad8
 
 # Firmware for model SM-G973N - from Samsung package version G973NKSU7HWD3
 
-cm.bin_SM-G973N
-dqmdbg.img_SM-G973N
-keystorage.bin_SM-G973N
-modem.bin_SM-G973N
-modem_debug.bin_SM-G973N
-param.bin_SM-G973N
-sboot.bin_SM-G973N
-uh.bin_SM-G973N
-up_param.bin_SM-G973N
+cm.bin_SM-G973N|98c7df501900895823a34ccdfc5240865814e0e4
+dqmdbg.img_SM-G973N|2a3b4f162457c8eb57de62b2a6afbcd60ee6ef28
+keystorage.bin_SM-G973N|19942b7434a87f38157b23d9e5686fd528eeecbd
+modem.bin_SM-G973N|4ca61d5034ecca16f05020a2ce7c20c1d11e3794
+modem_debug.bin_SM-G973N|a94fd4eb38007bfcbe4ef88b941c1d5c2940bf8c
+param.bin_SM-G973N|9721305e65c13d1686c51e21b765888ba424f0c0
+sboot.bin_SM-G973N|d06d7694c96ad8cec92dbd2594f8ee43ef6f6ae0
+uh.bin_SM-G973N|5427dba6bd330bf2812675bf7c46fd2f8e9972cc
+up_param.bin_SM-G973N|aa8573639dbd7886b7ff4ae18bd92e9815424320
 
 # File containing the supported models, one per line
-models
+models|1ef6255117afcaec2ba8beb1a9e613d825abcf82
 # Files containing Samsung package version for supported models
-version_SM-G973F
-version_SM-G973N
+version_SM-G973F|de6872e8d6a90daf76705d100655233273ca1032
+version_SM-G973N|e725ea0d3f4f826612cd563f2b4eaed9e19973a6
