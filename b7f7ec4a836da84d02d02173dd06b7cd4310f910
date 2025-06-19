@@ -52,6 +52,24 @@
       "parentUuid": "d370de13_ec58ce56",
       "revId": "b7f7ec4a836da84d02d02173dd06b7cd4310f910",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1563c79c_12b7dbc8",
+        "filename": "overlay/frameworks/base/packages/SystemUI/res/values-sw457dp/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35487
+      },
+      "writtenOn": "2025-06-19T07:54:10Z",
+      "side": 1,
+      "message": "No there isn\u0027t, do you want me to delete values-sw457dp?",
+      "parentUuid": "a99c5188_7e401373",
+      "revId": "b7f7ec4a836da84d02d02173dd06b7cd4310f910",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
