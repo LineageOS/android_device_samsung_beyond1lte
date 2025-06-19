@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4f11df84_53f72070",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-06-19T09:39:06Z",
+      "side": 1,
+      "message": "Use \"git --amend\" to amend the commit and upload the original change.",
+      "revId": "8eaca21536d2150a68f23a4d3f8bad8f8e66a77f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
