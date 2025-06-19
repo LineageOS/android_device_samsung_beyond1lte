@@ -34,6 +34,24 @@
       "parentUuid": "5601c3fd_c086ad52",
       "revId": "b7f7ec4a836da84d02d02173dd06b7cd4310f910",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a99c5188_7e401373",
+        "filename": "overlay/frameworks/base/packages/SystemUI/res/values-sw457dp/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-06-19T07:47:18Z",
+      "side": 1,
+      "message": "Is there anything else in this file relevant besides pixel_pitch config?",
+      "parentUuid": "d370de13_ec58ce56",
+      "revId": "b7f7ec4a836da84d02d02173dd06b7cd4310f910",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
