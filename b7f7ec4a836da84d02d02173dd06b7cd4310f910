@@ -88,6 +88,24 @@
       "parentUuid": "1563c79c_12b7dbc8",
       "revId": "b7f7ec4a836da84d02d02173dd06b7cd4310f910",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "13984bd6_bbf6cf86",
+        "filename": "overlay/frameworks/base/packages/SystemUI/res/values-sw457dp/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2025-06-19T16:18:04Z",
+      "side": 1,
+      "message": "neyxt time please amend existing patches instead of creating new ones\n\nFor anyone looking for that merge into one file: https://review.lineageos.org/c/LineageOS/android_device_samsung_beyond1lte/+/433908",
+      "parentUuid": "12f90a8c_f8bbae58",
+      "revId": "b7f7ec4a836da84d02d02173dd06b7cd4310f910",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
