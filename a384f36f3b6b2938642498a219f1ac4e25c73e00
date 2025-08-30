@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5d66f3d8_9e3e7fd4",
+        "filename": "overlay/frameworks/base/packages/SystemUI/res/values/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-08-30T09:06:06Z",
+      "side": 1,
+      "message": "Add a new line and pick original comment",
+      "revId": "a384f36f3b6b2938642498a219f1ac4e25c73e00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
