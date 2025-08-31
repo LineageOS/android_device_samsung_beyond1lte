@@ -16,6 +16,24 @@
       "message": "Add a new line and pick original comment",
       "revId": "a384f36f3b6b2938642498a219f1ac4e25c73e00",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d3201e8f_95daf791",
+        "filename": "overlay/frameworks/base/packages/SystemUI/res/values/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 35487
+      },
+      "writtenOn": "2025-08-31T20:20:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5d66f3d8_9e3e7fd4",
+      "revId": "a384f36f3b6b2938642498a219f1ac4e25c73e00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
