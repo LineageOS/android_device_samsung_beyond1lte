@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "15c6a018_7c02e625",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35487
+      },
+      "writtenOn": "2025-09-09T16:31:37Z",
+      "side": 1,
+      "message": "I checked both resolutions, it changes nothing in 1440x3040, but fixes the overlap in 1080x2280. (Beyond1 as well)\n\nI can cherry pick it to the other devices as well, but for the beyond0 it would have to be tested as it has a different resolution.",
+      "parentUuid": "187952cb_54f7deef",
+      "revId": "e287fc6ef62336213ba08088d753683e5110576a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "af096aea_2fe7f3fb",
@@ -31,6 +49,24 @@
       "writtenOn": "2025-09-09T14:17:35Z",
       "side": 1,
       "message": "Extra space at the end of the line",
+      "revId": "e287fc6ef62336213ba08088d753683e5110576a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9f7f3c55_7c5022af",
+        "filename": "overlay/frameworks/base/packages/SystemUI/res/values/dimens.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 35487
+      },
+      "writtenOn": "2025-09-09T16:31:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "af096aea_2fe7f3fb",
       "revId": "e287fc6ef62336213ba08088d753683e5110576a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
