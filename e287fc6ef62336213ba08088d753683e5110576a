@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "187952cb_54f7deef",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25925
+      },
+      "writtenOn": "2025-09-09T14:17:35Z",
+      "side": 1,
+      "message": "Did you verify this also works with screen resolution set to 1080p instead of 1440p? Also if we want to do this, it needs to be done for all the other devices of which I can only test beyond1lte and d2s myself.",
+      "revId": "e287fc6ef62336213ba08088d753683e5110576a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "af096aea_2fe7f3fb",
+        "filename": "overlay/frameworks/base/packages/SystemUI/res/values/dimens.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 25925
+      },
+      "writtenOn": "2025-09-09T14:17:35Z",
+      "side": 1,
+      "message": "Extra space at the end of the line",
+      "revId": "e287fc6ef62336213ba08088d753683e5110576a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
