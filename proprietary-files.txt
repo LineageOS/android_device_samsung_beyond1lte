@@ -82,6 +82,7 @@ vendor/lib64/hw/vendor.samsung.hardware.gnss@2.0-impl.so
 
 ## NFC
 vendor/firmware/nfc/sec_s3nrn82_firmware.bin
+vendor/etc/nfc/sec_s3nrn82_rfreg.bin
 
 ## RIL
 vendor/etc/floating_feature.xml
