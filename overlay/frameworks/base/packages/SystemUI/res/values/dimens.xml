@@ -23,4 +23,10 @@
 
     <!--Bottom margin size when fingerprint in display is active -->
     <dimen name="keyguard_indication_margin_bottom">55px</dimen>
+    <!-- Align status bar content and the quick settings header with the camera cutout. -->
+    <dimen name="status_bar_padding_start">20dp</dimen>
+    <dimen name="status_bar_padding_top">12dp</dimen>
+    <dimen name="large_screen_shade_header_left_padding">20dp</dimen>
+    <dimen name="qs_header_height">48dp</dimen>
+    <dimen name="qs_header_row_min_height">48dp</dimen>
 </resources>
